@@ -11,6 +11,8 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
+
+  <div class="bg-red-600">yoooo</div>
   <HelloWorld msg="Vite + Vue" />
 </template>
 
@@ -24,6 +26,6 @@ import HelloWorld from './components/HelloWorld.vue'
   filter: drop-shadow(0 0 2em #646cffaa);
 }
 .logo.vue:hover {
-  filter: drop-shadow(0 0 2em #42b883aa);
+  filter: drop-shadow(0 0 2em #070a09aa);
 }
 </style>
